@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+.idea/
+.streamlit/
+*.log
+
+# Model artifacts
+models/*.pkl
+
+# Ignore large raw datasets if desired
+# data/*.csv
+
+# Keep processed files for Streamlit deployment
+# processed/*.csv
