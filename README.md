@@ -25,7 +25,7 @@ machine learning pipeline, model evaluation, and interactive analytics dashboard
     <img src="https://img.shields.io/badge/Watch%20Trailer-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="YOUR_STREAMLIT_LINK_HERE">
+<a href="https://marketmind-ai12.streamlit.app">
     <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 

@@ -6,9 +6,6 @@ __pycache__/
 .streamlit/
 *.log
 
-# Model artifacts
-models/*.pkl
-
 # Ignore large raw datasets if desired
 # data/*.csv
 
