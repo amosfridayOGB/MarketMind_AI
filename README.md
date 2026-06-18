@@ -29,7 +29,7 @@ machine learning pipeline, model evaluation, and interactive analytics dashboard
     <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 
-<a href="linkedin.com/in/friday-ogbonna-amos-a62a5636b">
+<a href="https://www.linkedin.com/in/friday-ogbonna-amos-a62a5636b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B66g9XfewTbSxoPPYXxzWEw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -318,6 +318,7 @@ MarketMind_AI/
 ├── inspect_dataset.py
 ├── prepare_data.py
 ├── README.md
+├── requirements.txt
 ├── save_metrics.py
 └── train_xgboost.py
 ```
